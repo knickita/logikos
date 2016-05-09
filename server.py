@@ -3,7 +3,7 @@ import random
 import database
 from BaseHTTPServer import BaseHTTPRequestHandler,HTTPServer
 
-PORT_NUMBER = 8888
+PORT_NUMBER = 8080
 
 
 def generate_hash():
