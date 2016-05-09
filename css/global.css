@@ -1,0 +1,25 @@
+table, th, td {
+   
+}
+
+td:hover { 
+    background-color: yellow;
+}
+
+#remove{
+	background-color: red;
+	width : 10px;
+}
+
+#remove:hover{
+	color: white;
+}
+
+.aggiungi_tecnico{
+	background-color: lightgreen;
+	width : 20px;
+}
+
+.aggiungi_tecnico:hover{
+	color: white;
+}
