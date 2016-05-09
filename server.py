@@ -5,7 +5,6 @@ from BaseHTTPServer import BaseHTTPRequestHandler,HTTPServer
 
 PORT_NUMBER = 8080
 
-
 def generate_hash():
     out=""
     for i in range(10):
